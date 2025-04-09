@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @devkamiki
 - 👀 I’m interested in frontend & self-hosting
-- 📫 How to reach me: yuki@obsp.de
+- 📫 How to reach me:
+  - Email: [yukidev@zohomail.eu](mailto:yukidev@zohomail.eu)
+  - Matrix: @yu:tchncs.de(https://matrix.to/#/@yu:tchncs.de)
 - 😄 Pronouns: they/them or she/her
 - ⚡ Fun fact: "Yuki" comes from Miyazawa Kenji's "雪渡り" while "Kamiki" was inherited from Persona 3 character Kamiki Akinari
